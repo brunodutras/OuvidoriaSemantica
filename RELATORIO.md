@@ -2,7 +2,7 @@
 
 **Relatório síntese** · Processamento de Linguagem Natural — representações vetoriais, busca semântica e chunking
 
-> Aluno(a): `________________________` · Disciplina: `________________________` · Data: `____/____/______`
+> Aluno: Bruno Dutra
 
 ---
 
