@@ -1,0 +1,17 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Artefatos de build
+_relatorio_tmp.html
+ouvidoria-semantica.zip
+
+# macOS
+.DS_Store

@@ -1,0 +1,11 @@
+id_a,id_b,relacao,motivo
+M003,M017,duplicata,buraco / asfalto esburacado na mesma avenida
+M008,M022,duplicata,unidade básica sem médico para atendimento
+M012,M035,duplicata,assaltos no ponto de ônibus no período noturno
+M005,M027,duplicata,descarte irregular de lixo e entulho em terreno baldio
+M010,M030,duplicata,turma do 8º ano sem professor de matemática
+M019,M038,duplicata,falta de medicamento de uso contínuo na farmácia da unidade
+M024,M031,quase_duplicata,"iluminação pública apagada, mas em locais diferentes (rua x praça)"
+M014,M026,quase_duplicata,"falta de água, mas em equipamentos públicos diferentes (escola x UBS)"
+M003,M013,quase_duplicata,"a palavra 'buraco' aparece nos dois, mas um é asfalto e o outro é calçada"
+M023,M031,quase_duplicata,"ambos citam iluminação queimada, mas M023 trata de segurança no beco"
